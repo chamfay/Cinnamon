@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../data/cinnamon.desktop.in.in.h:1
 msgid "Cinnamon"
-msgstr "صدفة جنوم"
+msgstr "واجهة القرفة"
 
 #: ../data/cinnamon.desktop.in.in.h:2
 msgid "Window management and application launching"
@@ -91,7 +91,7 @@ msgstr ""
 
 #: ../data/org.cinnamon.gschema.xml.in.h:14
 msgid "Show date in clock"
-msgstr ""
+msgstr "أظهر التاريخ في الساعة"
 
 #: ../data/org.cinnamon.gschema.xml.in.h:15
 msgid "Show the week date in the calendar"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../data/org.cinnamon.gschema.xml.in.h:16
 msgid "Show time with seconds"
-msgstr ""
+msgstr "أظهر التاريخ بالثواني"
 
 #: ../data/org.cinnamon.gschema.xml.in.h:17
 msgid ""
