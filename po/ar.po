@@ -34,15 +34,15 @@ msgstr ""
 
 #: ../data/org.cinnamon.gschema.xml.in.h:2
 msgid "Enable internal tools useful for developers and testers from Alt-F2"
-msgstr ""
+msgstr "تفعيل الأدوات الداخليةالمهمة للمطورين والمجربين Alt-F2 "
 
 #: ../data/org.cinnamon.gschema.xml.in.h:3
 msgid "File extension used for storing the screencast"
-msgstr ""
+msgstr "امتداد الملف المستعمل في حفظ لقطة الشاشة"
 
 #: ../data/org.cinnamon.gschema.xml.in.h:4
 msgid "Framerate used for recording screencasts."
-msgstr ""
+msgstr "عدد اللقطات في الثانية لتسجيل لقطات الشاشة"
 
 #: ../data/org.cinnamon.gschema.xml.in.h:5
 msgid ""
