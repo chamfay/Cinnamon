@@ -19,7 +19,7 @@ const Tweener = imports.ui.tweener;
 const DND = imports.ui.dnd;
 const Meta = imports.gi.Meta;
 
-const Gettext = imports.gettext.domain('cinnamon-extensions');
+const Gettext = imports.gettext.domain('cinnamon-applets');
 const _ = Gettext.gettext;
 
 const ICON_SIZE = 16;
