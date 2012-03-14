@@ -17,7 +17,7 @@ ConfirmDialog.prototype = {
 
     _init: function(){
 	ModalDialog.ModalDialog.prototype._init.call(this);
-	let label = new St.Label({text: "Are you sure you want to restore all settings to default?\n\n"});
+	let label = new St.Label({text: _("Are you sure you want to restore all settings to default?\n\n")});
 	this.contentLayout.add(label);
 
 	this.setButtons([
